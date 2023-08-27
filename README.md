@@ -1,6 +1,8 @@
 # Alzheimer-disease-detection-and-classification
 
-I implemented a deep learning algorithm for that project to identify four types of Alzheimer's disease problems. I pre-processed the dataset and split the whole dataset into training, testing, and validation portion. Using sparse categorical cross-entropy loss function and the Adam optimization technique, I achieved an excellent training and validation result.
+− Executed Alzheimer MRI Preprocessed Dataset (6400 MRI images).
+
+− Applied a custom CNN architecture, using sparse categorical cross-entropy loss function and the Adam optimization technique.
 
 Using Alzheimer MRI Preprocessed Dataset (128 x 128)
 
